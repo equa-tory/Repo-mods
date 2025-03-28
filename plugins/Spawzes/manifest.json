@@ -1,0 +1,9 @@
+{
+  "name": "Spawzes_Valuables",
+  "description": "Random stuff that I wanted to add to REPO",
+  "version_number": "1.2.0",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.2"
+  ],
+  "website_url": ""
+}

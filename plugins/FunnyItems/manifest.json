@@ -1,0 +1,9 @@
+{
+  "name": "FunnyItems",
+  "description": "FunnyItems is a Valuable mod that adds more new Valuables into the game. They are pretty fun and funny to just mess around with and to have in such a weird world.",
+  "version_number": "1.3.0",
+  "dependencies": [
+    "Zehs-REPOLib-1.5.0"
+  ],
+  "website_url": ""
+}

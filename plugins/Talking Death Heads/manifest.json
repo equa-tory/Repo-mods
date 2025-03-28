@@ -1,0 +1,9 @@
+{
+    "name": "Talking_Death_Heads",
+    "version_number": "0.0.15",
+    "website_url": "https://github.com/valkyrieBae/TalkingDeathHeads/tree/master",
+    "description": "When you die, you speak from your head. You watch your head. Your friends find the head in a dark corner, crying for help, begging to be taken back into the light. Press space or click to go back to classic spectating.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
